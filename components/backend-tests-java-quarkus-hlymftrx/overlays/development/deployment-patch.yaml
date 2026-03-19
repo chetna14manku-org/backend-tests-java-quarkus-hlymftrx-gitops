@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/chetna14manku_org/backend-tests-java-quarkus-hlymftrx:a9d25ab4d52e0043c271c978388a22accf5d3b09
+        - image: quay.io/chetna14manku_org/backend-tests-java-quarkus-hlymftrx:fcd71f898ca5474bc68f543fa3751b003fd13ac3
           name: container-image
